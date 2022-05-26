@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitmapa", "bitmapa\bitmapa.csproj", "{B5AB0E63-7B34-40F3-AC2D-A93323C8102F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AB0E63-7B34-40F3-AC2D-A93323C8102F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AB0E63-7B34-40F3-AC2D-A93323C8102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AB0E63-7B34-40F3-AC2D-A93323C8102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AB0E63-7B34-40F3-AC2D-A93323C8102F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E32B37-95C2-4D73-AC95-330D97369370}
+	EndGlobalSection
+EndGlobal

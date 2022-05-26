@@ -1,0 +1,54 @@
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\bin\Debug\bitmapa.exe.config
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\bin\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\bin\Debug\bitmapa.pdb
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.AssemblyReference.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.Form1.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.Properties.Resources.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.GenerateResource.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmap\bitmapa\bitmapa\obj\Debug\bitmapa.pdb
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.exe.config
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.exe
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.pdb
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.AssemblyReference.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Form1.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Form2.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Properties.Resources.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.GenerateResource.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.CoreCompileInputs.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.exe
+E:\Dokumenty\2022\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.pdb
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\bin\Debug\bitmapa.exe.config
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\bin\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\bin\Debug\bitmapa.pdb
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.AssemblyReference.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.Form1.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.Form2.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.Properties.Resources.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.GenerateResource.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\forms bitmapV2\bitmapa\bitmapa\obj\Debug\bitmapa.pdb
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\bin\Debug\bitmapa.exe.config
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\bin\Debug\bitmapa.exe
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\bin\Debug\bitmapa.pdb
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.AssemblyReference.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.Form1.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.Form2.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.Properties.Resources.resources
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.GenerateResource.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.CoreCompileInputs.cache
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.exe
+E:\Dokumenty\2022\analiza obrazu\bitmapV3\bitmapV3\bitmapa\bitmapa\obj\Debug\bitmapa.pdb
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.exe.config
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\bin\Debug\bitmapa.pdb
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.AssemblyReference.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Form1.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Form2.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.Properties.Resources.resources
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.GenerateResource.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.exe
+C:\Users\student\Documents\cwiczenia\analiza obrazu\bitmapa\bitmapa\obj\Debug\bitmapa.pdb
